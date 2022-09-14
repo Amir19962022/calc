@@ -13,7 +13,7 @@ window.onload = function (){
        button.map (button => {
        button.addEventListener ('click,') function () {
 
-        console.log('clicked')
+        console.log('clicked lol')
 
 
        }
